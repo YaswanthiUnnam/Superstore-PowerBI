@@ -12,11 +12,11 @@
     *   **Value Replacement**: Replace specific values as needed (e.g., converting "yes" and "no" to binary values).
       
 *   **Dashboard Development**:
-*   [https://github.com/YaswanthiUnnam/Superstore-PowerBI/blob/cd4c8b156f677874d3303192ae60509e6d4d2147/Images/Super%20Store.png]
+*   ![Super Store](https://github.com/YaswanthiUnnam/Superstore-PowerBI/blob/cd4c8b156f677874d3303192ae60509e6d4d2147/Images/Super%20Store.png)
     *   **Visualisation Selection**: Choose appropriate chart types such as cluster bar charts, area charts, maps, and donut charts to represent the data effectively.
     *   **KPIs**: Design and implement Key Performance Indicators (KPIs) to highlight important metrics.
     *   **Interactive Filters**: Incorporate filters (slicers) to allow users to interactively explore the data.
-    *   **Formatting**: Customise the appearance of the dashboard, including background images ![blue bg](https://github.com/YaswanthiUnnam/Superstore-PowerBI/blob/cd4c8b156f677874d3303192ae60509e6d4d2147/Images/blue%20bg.jpg), colour schemes, and visual borders.
+    *   **Formatting**: Customise the appearance of the dashboard, including background images, colour schemes, and visual borders.
       
 *   **Data Analysis and Insights**:
     *   **Trend Analysis**: Analyse sales trends over time, comparing data across different years.
