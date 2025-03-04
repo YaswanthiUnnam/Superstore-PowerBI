@@ -1,7 +1,7 @@
 # Advanced Power BI dashboard for sales forecasting and data analysis
 
 *   **Project Objective**: The primary objective is to leverage data analysis techniques to contribute to business success, with a focus on time series analysis and sales forecasting. The goal is to process sales data to create a dashboard for analysis, highlight key performance indicators, and enable sales forecasting.
-*   **Data Source**: The project utilises the **Super Store Sales Data Set**,[https://github.com/YaswanthiUnnam/Superstore-PowerBI/blob/cd4c8b156f677874d3303192ae60509e6d4d2147/SuperStore_Sales_Dataset.csv] which includes information such as order ID, order date, ship date, ship mode, customer details, location, product details, sales, quantity, profit, and return status.
+*   **Data Source**: The project utilises the **Super Store Sales Data Set**,![https://github.com/YaswanthiUnnam/Superstore-PowerBI/blob/cd4c8b156f677874d3303192ae60509e6d4d2147/SuperStore_Sales_Dataset.csv] which includes information such as order ID, order date, ship date, ship mode, customer details, location, product details, sales, quantity, profit, and return status.
   
 *   **Data Cleaning and Transformation**:
     *   **Data Import**: Import the data into Power BI using the "Get Data" option, selecting the appropriate data source (e.g., text/CSV file).
